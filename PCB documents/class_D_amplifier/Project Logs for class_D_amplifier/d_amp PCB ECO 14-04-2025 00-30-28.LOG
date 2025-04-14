@@ -1,0 +1,33 @@
+Added Component: Designator=C?(CAPC1608X100N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GCJ188C70J475KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/gcj188c70j475ke02d/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GCJ188C70J475KE02%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCJ188C70J475KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GCJ188C70J475KE2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCJ188C70J475KE02D?qs=QzBtWTOodeVfJR8CElrI4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RB7.6-15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-13
+Added Member To Class: ClassName=power section Member=Component C? GCJ188C70J475KE02D
+Added Member To Class: ClassName=power section Member=Component C? Cap Pol1
+Add Class Member: Failed to add class member : Component IC1 NE555DR
+Added Room: Name=class_D_amplifier
+Added Room: Name=power section

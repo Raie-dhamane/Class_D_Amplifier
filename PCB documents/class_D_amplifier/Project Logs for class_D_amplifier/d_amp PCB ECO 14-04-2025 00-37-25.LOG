@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+12 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+12 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=5V Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+12 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+12 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+12 Pin=C10-2
+Removed Member From Class: ClassName=class_D_amplifier Member=C1
+Removed Member From Class: ClassName=class_D_amplifier Member=C2
+Removed Member From Class: ClassName=class_D_amplifier Member=C3
+Removed Member From Class: ClassName=class_D_amplifier Member=C5
+Removed Member From Class: ClassName=class_D_amplifier Member=C6
+Removed Member From Class: ClassName=power section Member=C7
+Removed Member From Class: ClassName=power section Member=C8
+Removed Member From Class: ClassName=power section Member=C9
+Removed Member From Class: ClassName=power section Member=C10
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0603X33N New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C? Old Footprint=GCM033C70J104KE02D New Footprint=CAPC1608X90N
+Change Component Comment : Designator=C? Old Comment=GCM033C71A104KE02J New Comment=100nF
+Change Component Comment : Designator=J2 Old Comment=TERMINAL BLOCK 2 PIN New Comment=
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC0603X33N"; UniqueID = "\QDVCEAYO" ("\QDVCEAYO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "GCM033C70J104KE02D"; UniqueID = "\CMALLTLA" ("\CMALLTLA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm188r71c104ma01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/GRM188R71C104MA01D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM18R71C104MA01D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=+12 Pin=C?-2
+Added Pin To Net: NetName=+12 Pin=C?-2
+Added Pin To Net: NetName=+12 Pin=C?-2
+Added Pin To Net: NetName=+12 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-13
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L1-2
+Added Pin To Net: NetName=NetC?_2 Pin=R5-1
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=class_D_amplifier Member=Component C? 100nF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C? 100nF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C? 0.2uF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C? 0.1uF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C? 100nF
+Added Member To Class: ClassName=power section Member=Component C? 4.7uF
+Added Member To Class: ClassName=power section Member=Component C? 4.7uF
+Added Member To Class: ClassName=power section Member=Component C? 470nF
+Added Member To Class: ClassName=power section Member=Component C? 22uF
+Add Class Member: Failed to add class member : Component IC1 NE555DR
+Added Room: Name=class_D_amplifier
+Added Room: Name=power section

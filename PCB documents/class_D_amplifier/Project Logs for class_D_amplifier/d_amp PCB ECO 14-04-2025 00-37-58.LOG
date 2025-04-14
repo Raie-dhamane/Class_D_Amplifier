@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=power section Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-13
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC3_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R7-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R8-2
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=class_D_amplifier Member=Component C1 100nF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C3 100nF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C5 0.2uF
+Added Member To Class: ClassName=class_D_amplifier Member=Component C6 0.1uF
+Added Member To Class: ClassName=power section Member=Component C7 4.7uF
+Added Member To Class: ClassName=power section Member=Component C8 4.7uF
+Added Member To Class: ClassName=power section Member=Component C9 22uF
+Added Member To Class: ClassName=power section Member=Component C10 470nF
+Add Class Member: Failed to add class member : Component IC1 NE555DR
+Added Room: Name=class_D_amplifier

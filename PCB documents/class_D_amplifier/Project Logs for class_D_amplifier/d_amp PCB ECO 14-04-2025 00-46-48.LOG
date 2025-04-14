@@ -1,0 +1,23 @@
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/ne555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NE555DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-NE555DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1218414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1218414"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=NetC6_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=+5 Pin=IC1-4
+Added Pin To Net: NetName=NetC4_2 Pin=IC1-5
+Added Pin To Net: NetName=NetC6_2 Pin=IC1-6
+Added Pin To Net: NetName=5V Pin=IC1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-13
+Added Member To Class: ClassName=class_D_amplifier Member=Component C2 100nF
+Added Member To Class: ClassName=class_D_amplifier Member=Component IC1 NE555DR
+Added Room: Name=class_D_amplifier
+Added Room: Name=power section

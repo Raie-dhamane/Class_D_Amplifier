@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=class_D_amplifier Member=IC?
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-13
+Added Room: Name=class_D_amplifier
+Added Room: Name=power section

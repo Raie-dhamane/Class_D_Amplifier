@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 LM393FVT-E2
+Add Class Member: Failed to add class member : Component U1 LM339M/NOPB
+Added Room: Name=Sheet1

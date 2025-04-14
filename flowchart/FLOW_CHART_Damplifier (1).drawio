@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1392" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-1" value="comparator" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="340" width="130" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kgfs-GVgjh_JkW_aDFtD-2" target="kgfs-GVgjh_JkW_aDFtD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-2" value="sine wave" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kgfs-GVgjh_JkW_aDFtD-4" target="kgfs-GVgjh_JkW_aDFtD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-4" value="Triangular Wave" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="424" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-8" value="MOSFET Driver" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.035;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kgfs-GVgjh_JkW_aDFtD-1" target="kgfs-GVgjh_JkW_aDFtD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-13" value="High side mosfet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-14" value="Low side mosfet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kgfs-GVgjh_JkW_aDFtD-20" target="kgfs-GVgjh_JkW_aDFtD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="350" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="350" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kgfs-GVgjh_JkW_aDFtD-21" target="kgfs-GVgjh_JkW_aDFtD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-21" value="Low pass filter" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-23" value="Output" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kgfs-GVgjh_JkW_aDFtD-25" value="&lt;h1&gt;CLASS D Amplifier&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="110" width="240" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

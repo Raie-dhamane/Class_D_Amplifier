@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=C? Old Footprint=CAPC1608X100N New Footprint=GCM033C70J104KE02D
+Change Component Comment : Designator=C? Old Comment=GCJ188C70J475KE02D New Comment=GCM033C71A104KE02J
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPC1608X100N"; UniqueID = "\QQDWGCLH" ("\QQDWGCLH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM033C71A104KE02-01A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM033C71A104KE02J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCM033C71A104KE2J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCM033C71A104KE02J?qs=ulEaXIWI0c%2Fqhp%252BfOBxdXQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-13
+Added Member To Class: ClassName=power section Member=Component C? GCM033C71A104KE02J
+Add Class Member: Failed to add class member : Component IC1 NE555DR
