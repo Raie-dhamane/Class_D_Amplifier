@@ -1,7 +1,7 @@
 # CLASS D Amplifier
 
-![Image](https://github.com/user-attachments/assets/fea2148a-39ff-4611-8326-15ba9979bc86)
 ![Image](https://github.com/user-attachments/assets/ac7fbe0b-96c2-4320-b43f-442b9a394374)
+![Image](https://github.com/user-attachments/assets/fea2148a-39ff-4611-8326-15ba9979bc86)
 
 #Introduction
 A Class D amplifier is a highly efficient audio amplifier that operates by rapidly switching its output transistors fully on and off. It generally uses a comparator, to which triangular wave and audio wave are given as input, driver for MOSFET or BJT and a LC low pass filter for filtering. Theoretically, Class D amplifiers can achieve 100% efficiency since the transistors either conduct with minimal voltage drop or are completely off, resulting in negligible power loss. In practice, efficiencies above 90% are common. Compared to other amplifier classes, Class D amplifiers are much more superior. So, I have designed a class D amplifier without using any specific IC but using simple components, here is how it goes.
